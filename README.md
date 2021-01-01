@@ -1,6 +1,4 @@
-# CRD-operations-of-a-file-based-key-value-data-store
-
-
+# CRD operationson on file based key-value datastore
 Go through the accessing.py file and output_1-converted.pdf file that are attached here with in order to understand clearly how 
 the code works and how to perform operations in this. 
 
